@@ -14,7 +14,7 @@ const stations=[
 f:88.7,
 html:`
 <div class="songCard">
-<img class="cover" src="src/pict.JPG">
+<img class="cover" src="src/4.jpg">
 <div class="songInfo">
 <div>Waltz for Moon</div>
 <div style="font-size:12px;opacity:.7;margin-bottom:10px">Hodge</div>
@@ -45,19 +45,19 @@ html:`
 <div style="position:absolute;top:5px;width:100%;overflow:hidden;">
 <div class="filmTrack">
 
-<img src="src/1.JPG" class="filmPic">
-<img src="src/2.JPG" class="filmPic">
-<img src="src/3.JPG" class="filmPic">
-<img src="src/4.JPG" class="filmPic">
-<img src="src/5.JPG" class="filmPic">
-<img src="src/pict.JPG" class="filmPic">
+<img src="src/1.jpg" class="filmPic">
+<img src="src/2.jpg" class="filmPic">
+<img src="src/3.jpg" class="filmPic">
+<img src="src/6.jpg" class="filmPic">
+<img src="src/5.jpg" class="filmPic">
+<img src="src/4.jpg" class="filmPic">
 
-<img src="src/1.JPG" class="filmPic">
-<img src="src/2.JPG" class="filmPic">
-<img src="src/3.JPG" class="filmPic">
-<img src="src/4.JPG" class="filmPic">
-<img src="src/5.JPG" class="filmPic">
-<img src="src/pict.JPG" class="filmPic">
+<img src="src/1.jpg" class="filmPic">
+<img src="src/2.jpg" class="filmPic">
+<img src="src/3.jpg" class="filmPic">
+<img src="src/6.jpg" class="filmPic">
+<img src="src/5.jpg" class="filmPic">
+<img src="src/4.jpg" class="filmPic">
 
 </div>
 </div>
