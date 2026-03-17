@@ -114,9 +114,9 @@ All these months with you feels both long and short at the same time. Long, beca
 
 Thank you for staying, for being patient with me, and for loving me even when I’m not at my best. You make my days brighter, my problems lighter, and my heart calmer. Being with you is one of the best things that has ever happened to me.
 
-These nine months are just a small part of our story, but they already mean so much to me. I hope we continue growing together, learning about each other, and making more memories that we can look back on someday.
+I hope we continue growing together, learning about each other, and making more memories that we can look back on someday.
 
-I don’t know what the future will look like, but I know that having you in my life is something I’m truly grateful for. Happy 9 months to us, and I hope this is only the beginning of many more memories, laughs, and moments together.
+I don’t know what the future will look like, but I know that having you in my life is something I’m truly grateful for. Happy mensiversary to us, and I hope this is only the beginning of many more memories, laughs, and moments together.
 
 
 <span class="signal">END SIGNAL</span>
