@@ -16,8 +16,8 @@ html:`
 <div class="songCard">
 <img class="cover" src="src/pict.JPG">
 <div class="songInfo">
-<div>You'll be in my heart</div>
-<div style="font-size:12px;opacity:.7;margin-bottom:10px">Phil Collins</div>
+<div>Waltz for Moon</div>
+<div style="font-size:12px;opacity:.7;margin-bottom:10px">Hodge</div>
 
 <div class="player">
 <div class="topRow">
@@ -110,7 +110,7 @@ html:`
 <span class="signal">TRANSMISSION START</span><br>
 
 
-Nine months with you feels both long and short at the same time. Long, because we’ve shared so many moments, memories, and feelings together. Short, because every day with you still feels new and exciting to me.
+All these months with you feels both long and short at the same time. Long, because we’ve shared so many moments, memories, and feelings together. Short, because every day with you still feels new and exciting to me.
 
 Thank you for staying, for being patient with me, and for loving me even when I’m not at my best. You make my days brighter, my problems lighter, and my heart calmer. Being with you is one of the best things that has ever happened to me.
 
